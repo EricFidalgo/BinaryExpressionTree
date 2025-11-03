@@ -1,5 +1,7 @@
 # Binary Expression Tree
 
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/BinaryExpressionTree)**
+
 ## Project Description
 
 This project implements a Binary Expression Tree (BET) in C++. A BET is a specific application of a binary tree used to represent arithmetic expressions. Each leaf node in the tree is an operand (a number or a variable), and each internal node is an operator.
