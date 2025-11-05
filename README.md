@@ -1,6 +1,6 @@
 # Binary Expression Tree
 
-**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/BinaryExpressionTree)**
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/project.html?id=binary-expression-tree)**
 
 ## Project Description
 
